@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\windowslib\windowslib.csproj" />
+    <ProjectReference Include="..\macoslib\macoslib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
